@@ -1,2 +1,5 @@
 # emmaai.github.io
-Consultancy pages
+Helping you design, build, and scale intelligent systems.
+
+**Book a free 30-minute consultation:**  
+<a href="https://calendly.com/yourusername/30min" target="_blank">Schedule on Calendly</a>

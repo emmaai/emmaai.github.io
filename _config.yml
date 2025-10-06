@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: AI/ML/Data/Ops Consulting
-description: Helping you design, build, and scale intelligent systems.
+title: AI & ML Consulting
+description: "AI/ML consultancy for scalable data science, MLOps, and applied machine learning, specialising in AWS, Kubernetes, and agentic AI."
+author: "Emma Ai"
+
+# SEO & social plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
